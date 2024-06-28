@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=01DFA5&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=700&size=50&duration=3500&pause=3&color=01DFA5&center=false&vCenter=false&multiline=false&repeat=false&width=1000&height=100&lines=Welcome+to+yxxjxmxn's+GitHub!🏂)](https://git.io/typing-svg)
 
-### 🙌 _Introduction_
+### 🙌 Introduction
 <div> 안녕하세요! 백엔드 개발자를 꿈꾸는 유지민입니다. </div>
 <div> 웹 개발에 관심이 많으며, 정해진 규칙과 약속 안에서 코드를 작성하는 것을 좋아합니다. </div>
 <br/>
