@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=01DFA5&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=700&size=50&duration=3500&pause=3&color=01DFA5&center=false&vCenter=false&multiline=false&repeat=false&width=1000&height=100&lines=Welcome+to+yxxjxmxn's+GitHub!🏂)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=819FF7&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Signika+Negative&weight=700&size=50&duration=3500&pause=3&color=819FF7&center=false&vCenter=false&multiline=false&repeat=false&width=1000&height=100&lines=Welcome+to+yxxjxmxn's+GitHub!✨)](https://git.io/typing-svg)
 
 ### 🙌 _Introduction_
 <div> 안녕하세요! 백엔드 개발자를 꿈꾸는 유지민입니다. </div>
@@ -50,4 +50,4 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=01DFA5&text=&animation=twinkling&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=819FF7&text=&animation=twinkling&height=80&section=footer)
