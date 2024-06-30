@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5882FA&font=Signika%20Negative&text=Welcome%20to%20yxxjxmxn's%20GitHub!✨&animation=twinkling&height=100&fontColor=5882FA&fontSize=45&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5882FA&font=Signika%20Negative&text=Welcome%20to%20yxxjxmxn's%20GitHub!👋🏻&animation=twinkling&height=100&fontColor=5882FA&fontSize=45&fontAlignY=80)
 <br/>
 <br/>
 
