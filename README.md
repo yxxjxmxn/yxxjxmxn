@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-## 🙌 Introduction
+## 👀 Introduction
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=17&duration=3000&pause=500&color=02080BB8&vCenter=true&multiline=true&repeat=false&random=false&width=902&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC+%EA%BF%88%EA%BE%B8%EB%8A%94+%EC%9C%A0%EC%A7%80%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.;%EB%88%84%EA%B5%AC%EB%82%98+%EC%89%BD%EA%B2%8C+%EC%9D%BD%EC%9D%84+%EC%88%98+%EC%9E%88%EB%8A%94+%EC%BD%94%EB%93%9C%2C+%ED%95%A8%EA%BB%98+%EC%A0%95%ED%95%9C+%EA%B7%9C%EC%B9%99%EC%9D%84+%EC%A7%80%ED%82%A4%EB%8A%94+%EC%BD%94%EB%93%9C%2C+%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C+%EC%A0%95%EB%8F%88%EB%90%9C+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 <br/>
 
